@@ -3,7 +3,7 @@ const Home = () => {
 
     return(
 
-        <h2>Bienvenido al sistema de Home</h2>
+        <h2>Texto editado desde GitHub, simulando la perspectiva de ana</h2>
     )
 
 }
